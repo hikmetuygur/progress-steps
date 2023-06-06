@@ -4,13 +4,13 @@
 
 ## Information
 
-Expanding cards functionality
+Progress steps functionality
 
 The project goal:
 
-- style cards to have a background image and a heading
-- use Flexbox to align everything
-- add a JavaScript so that when the user click one of these cards, it change the class to active and it then expands with a CSS transition
+- Build a step
+- use Flex to align everything
+- add a JavaScript so that when the user click buttons, it change the class to active and then move to next step with a CSS transition
 - using JavaScript for the event listeners
 - using CSS transitions to give it the smooth through the effect
 
